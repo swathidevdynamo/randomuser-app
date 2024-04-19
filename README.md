@@ -1,5 +1,6 @@
 ![Application screenshot](./public/screenshot1.png)
 ![Application screenshot](./public/screenshot2.png)
+![Application screenshot](./public/screenshot3.png)
 
 <br/>
 <br/>
