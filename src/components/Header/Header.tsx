@@ -8,7 +8,7 @@ const Header: React.FC = () => {
     <HeaderContainer>
       <Title>{"React Random Users"}</Title>
       <HeaderIconsContainer>
-        <GithubLink href="https://github.com/swathidevdynamo">
+        <GithubLink href="https://github.com/swathidevdynamo/randomuser-app">
           <GithubIcon />
         </GithubLink>
       </HeaderIconsContainer>
