@@ -1,6 +1,8 @@
 ![Application screenshot](./public/screenshot1.png)
 ![Application screenshot](./public/screenshot2.png)
 
+<br/>
+<br/>
 
 # Getting Started with Create React App
 
